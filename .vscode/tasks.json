@@ -1,0 +1,24 @@
+{
+  // Terminal → Executar Tarefa... (Terminal → Run Task...)
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Gerar site (uma vez)",
+      "type": "shell",
+      "command": "python3 gerar.py",
+      "windows": { "command": "python gerar.py" },
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": true }
+    },
+    {
+      "label": "Observar pasta projetos",
+      "type": "shell",
+      "command": "python3 gerar.py --observar",
+      "windows": { "command": "python gerar.py --observar" },
+      "isBackground": true,
+      "problemMatcher": [],
+      "runOptions": { "runOn": "folderOpen" },
+      "presentation": { "reveal": "silent", "panel": "dedicated" }
+    }
+  ]
+}

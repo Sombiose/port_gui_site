@@ -1,0 +1,11 @@
+titulo: Arto Lindsay — exposição individual
+ano: 2025
+funcao: Programação sonora, amplificação e hardware
+local: Auroras, São Paulo
+cliente: Arto Lindsay · Auroras
+credito: Desenho de som | Leston
+link: Auroras | https://auroras.art.br/exhibitions/arto-lindsay/
+link: Contemporary Art Daily | https://www.contemporaryartdaily.com/project/arto-lindsay-at-auroras-sao-paulo-55671
+---
+
+Desenvolvimento de hardware personalizado para três esculturas sonoras para a exposição individual de Arto Lindsay na Auroras, em São Paulo.

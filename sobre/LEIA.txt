@@ -1,0 +1,3 @@
+Coloque aqui a sua foto para a página Sobre (ex.: foto.jpg).
+Se houver mais de uma, vale a primeira em ordem de nome.
+Formato vertical (4:5) fica melhor; ela é recortada para caber.

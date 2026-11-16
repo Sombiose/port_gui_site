@@ -1,0 +1,14 @@
+titulo: Eu, Pulso — 12ª Mostra 3M de Arte
+ano: 2024
+funcao: Hardware, eletrônica e produção virtual
+local: Parque Augusta, São Paulo
+cliente: Estúdio Guto Requena
+link: Mostra 3M · Guto Requena | https://www.mostra3mdearte.com.br/12-mostra-3m-artistas-guto-requena/
+link: Mostra 3M | https://www.mostra3mdearte.com.br/12-mostra-3m/
+video: https://www.youtube.com/watch?v=qDgTsyMXDYw
+---
+Obra do Estúdio Guto Requena na 12ª Mostra 3M de Arte, instalada na Casa das Araras, no Parque Augusta, em São Paulo.
+
+Desenvolvimento de hardware personalizado envolvendo sensor de pulso que lê o batimento cardíaco do público e o transforma em música em tempo real: cada visitante compõe a trilha da obra com o próprio corpo.
+
+A produção da obra foi feita por Camila de Oliveira.

@@ -1,0 +1,11 @@
+titulo: Zoop - Summit26
+ano: 2026
+funcao: Desenvolvimento de hardware personalizado
+cliente: Zoop
+agencia: Grupo Berlinn e Suplab
+credito: Artista desenvolvedor | Leston
+# local:
+---
+Desenvolvimento de hardware para interação de obra visual em evento de inovação promovido pela Zoop.
+
+O celular, através do NFC, ativa a animação em painéis de Led enfileirados. 

@@ -1,0 +1,18 @@
+# Ordem dos projetos de AUDIOVISUAL no site (de cima para baixo).
+# Um nome de pasta por linha. Para mudar a posição, mova a linha.
+# Para OCULTAR um projeto do site, coloque # na frente do nome, sem espaço:
+#     #2019-visceral
+# Para ele voltar a aparecer, é só tirar o #.
+# Projeto novo que não estiver aqui aparece no fim da lista.
+
+2026-crialed
+2026-yunk-vino-visualizers
+jornal-da-usp
+2024-nemito
+2024-o-mar-nao-esta-para-peixe
+#2022-o-pais-que-perdeu-as-cores
+2021-sementes-da-educacao
+oz-produtora
+#2018-chao-de-fabrica
+#2018-tvtronics
+fruto-teaser

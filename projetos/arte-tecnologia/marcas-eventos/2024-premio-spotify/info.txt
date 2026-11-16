@@ -1,0 +1,12 @@
+titulo: Prêmio Spotify
+ano: 2024
+funcao: Produção eletrônica dos troféus
+cliente: Spotify · Suplab
+# local:
+---
+Troféus interativos entregues pelo Spotify aos 65 artistas mais ouvidos da plataforma, projeto desenvolvido pela Suplab.
+
+Fiquei responsável pela produção e montagem eletrônica.
+
+- 65 troféus produzidos.
+- Projeto vencedor do Latin America Design Awards.

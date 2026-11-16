@@ -1,0 +1,11 @@
+titulo: Melissa Delirium
+ano: 2026
+funcao: Desenvolvimento de hardware personalizado
+local: Pavilhão da Bienal, São Paulo
+cliente: Melissa
+credito: Artista desenvolvedor | Leston
+link: Revista Live Marketing | https://revistalivemarketing.com.br/pavilhao-da-bienal-sedia-megaevento-da-melissa-delirium-em-convencao-anual-focada-em-design-experimental-e-futurismo/
+---
+Hardware para o MegaEvento Melissa Delirium, convenção anual da marca no Pavilhão da Bienal, em São Paulo.
+
+Desenvolvimento de interface física de botões que conduz o público na geração de imagens por inteligência artificial.

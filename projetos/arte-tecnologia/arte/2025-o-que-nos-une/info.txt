@@ -1,0 +1,13 @@
+titulo: O que nos une — Miguel Nicolelis
+ano: 2025
+funcao: Desenvolvimento de hardware para uma das obras
+local: Centro Cultural FIESP, São Paulo
+cliente: Fiesp · AYA
+link: Sesi Cultura | https://www.sesisp.org.br/cultura/o-que-nos-une-abre-ao-publico-no-centro-cultural-fiesp-e-apresenta-teorias-do-neurocientista-miguel-nicolelis-em-forma-de-arte
+link: Fiesp | https://www.fiesp.com.br/mobile/noticias/?id=306073
+---
+Exposição no Centro Cultural FIESP que traduz em arte as teorias do neurocientista Miguel Nicolelis, realizada com a AYA.
+
+Desenvolvimento de hardware personalizado de uma das obras: três sensores de pulso e uma interface personalizada geram luz e som a partir do batimento cardíaco do público.
+
+

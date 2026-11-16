@@ -1,0 +1,11 @@
+titulo: Nemito
+ano: 2024
+funcao: Desenho de som
+# local: 
+cliente: Loberoso
+link: Ficha do filme | https://www.filmesdogajo.pt/nemito
+link: Loberoso | https://loberoso.com/About
+video: https://vimeo.com/796438374
+# ordem: 1   (opcional: força a posição na grade; menor vem antes)
+---
+Curta de animação dirigido por Ivanildo Soares. Loberoso.

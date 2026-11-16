@@ -1,0 +1,19 @@
+titulo: OZ Produtora
+ano: 2018 – 2019
+funcao: Videomaker — captação, edição de vídeo, fotografia e som
+# local: 
+# cliente: 
+link: Oz Produtora | https://ozprodutora.com.br/
+link: Sementes da Educação | https://sementesdaeducacao.com.br/
+video: https://www.youtube.com/watch?v=Wb-e9rkuiZw
+# ordem: 1   (opcional: força a posição na grade; menor vem antes)
+---
+Produtora audiovisual que realiza comerciais, vídeos institucionais, documentários, videoclipes e animações, além de projetos autorais na área cultural.
+
+Na Oz atuei como videomaker em todas as etapas, da captação à finalização, em vídeos de eventos, publicidade e cultura.
+
+- Captação de imagem, direção de fotografia e operação de estabilizador.
+- Captação em vídeo 360.
+- Edição e montagem de vídeo.
+- Captação de som direto, edição e mixagem.
+

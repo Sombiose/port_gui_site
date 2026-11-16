@@ -1,0 +1,11 @@
+titulo: Terra de Gigantes
+ano: 2023
+funcao: Desenvolvimento de interfaces interativas
+local: Sesc Guarulhos
+cliente: Sesc Guarulhos · ZoomB Lab
+link: Sesc São Paulo | https://www.sescsp.org.br/terra-de-gigantes-exposicao-imersiva-no-sesc-guarulhos-debate-o-corpo-negro-e-indigena-no-mundo-contemporaneo/
+link: Guarulhos Hoje | https://www.guarulhoshoje.com.br/2023/04/28/sesc-guarulhos-inaugura-exposicao-imersiva-e-interativa-inedita-no-pais/
+---
+Exposição imersiva e interativa no Sesc Guarulhos, realizada com o ZoomB Lab, que debate o corpo negro e indígena no mundo contemporâneo.
+
+Desenvolvimento de 27 interfaces personalizadas com sensores de distância e comunicação Wi-Fi: a presença do público ativa os vídeos projetados pela exposição.

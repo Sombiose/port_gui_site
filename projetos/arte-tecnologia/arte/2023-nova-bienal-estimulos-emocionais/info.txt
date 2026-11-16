@@ -1,0 +1,15 @@
+titulo: NOVA — Bienal Rio de Arte e Tecnologia: Estímulos Emocionais
+ano: 2023
+funcao: Hardware, programação e eletrônica
+local: Museu do Amanhã, Rio de Janeiro
+cliente: Estúdio Guto Requena
+link: FILE Festival | https://file.org.br/highlight/portugues-nova-bienal-rio-de-arte-e-tecnologia/
+link: Agência Brasil | https://agenciabrasil.ebc.com.br/geral/noticia/2023-09/museu-do-amanha-recebe-nova-bienal-rio-arte-e-tecnologia
+---
+Obra do Estúdio Guto Requena na 1ª edição da NOVA — Bienal Rio de Arte e Tecnologia, no Museu do Amanhã, no Rio de Janeiro.
+
+Atualização da obra e desenvolvimento de hardware personalizado.
+
+Sensores de pulso e sensores neurais leem o corpo do público e traduzem esses sinais em imagem, luz e som generativos.
+
+A produção da obra foi feita por Camila de Oliveira.

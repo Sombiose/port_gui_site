@@ -1,0 +1,6 @@
+titulo: Fruto — teaser
+# ano: 
+funcao: Trilha sonora e mixagem
+video: https://www.youtube.com/watch?v=ZbMGDqgH-9g
+---
+Trilha sonora original e mixagem do teaser de Fruto.

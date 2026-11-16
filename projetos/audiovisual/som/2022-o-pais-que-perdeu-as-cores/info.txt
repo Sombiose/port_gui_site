@@ -1,0 +1,11 @@
+titulo: O País que Perdeu as Cores
+ano: 2022
+funcao: Captação de som, desenho de som e mixagem
+# local: 
+cliente: Companhia Barco
+link: Infoteatro | https://infoteatro.com.br/peca/o-pais-que-perdeu-as-cores-2/
+link: Lançamento no Spotify | https://interd.net.br/companhia-barco-lanca-a-audiopeca-o-pais-que-perdeu-as-cores-no-spotify/21/06/2022/
+# video: https://www.youtube.com/watch?v=...   (YouTube ou Vimeo, pode repetir a linha)
+# ordem: 1   (opcional: força a posição na grade; menor vem antes)
+---
+Audiopeça da Companhia Barco.

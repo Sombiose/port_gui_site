@@ -1,0 +1,13 @@
+titulo: O Mar não está pra peixe
+ano: 2024
+funcao: Direção sonora e captação de som direto
+local: Jornal da USP
+cliente: Jornal da USP
+fomento: Instituto Serrapilheira — divulgação científica
+link: Jornal da USP | https://jornal.usp.br/sinopses-podcasts/o-mar-nao-esta-pra-peixe/
+link: Instituto Serrapilheira | https://serrapilheira.org/en/?p=14800
+link: Spotify | https://open.spotify.com/show/7mX1THhtX8EvSfce8lkbWT
+---
+Série documental em podcast sobre tudo de bom que o oceano faz por nós, e tudo de ruim que estamos fazendo com ele. Cinco episódios, lançados quinzenalmente a partir de julho de 2024, com reportagem e apresentação de Herton Escobar.
+
+Projeto contemplado pelo Instituto Serrapilheira no apoio à divulgação científica.

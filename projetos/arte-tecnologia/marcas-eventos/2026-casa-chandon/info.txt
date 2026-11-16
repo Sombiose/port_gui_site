@@ -1,0 +1,13 @@
+titulo: Casa Chandon
+ano: 2026
+funcao: Desenvolvimento de hardware personalizado
+local: São Paulo
+cliente: Chandon · Estúdio Guto Requena
+link: Exame | https://exame.com/casual/casa-chandon-retorna-a-sao-paulo/
+link: Live Marketing | https://livemarketing.com.br/casa-chandon-retorna-para-5a-edicao-em-sao-paulo
+---
+Desenvolvimento de hardware personalizado para a 5ª edição da Casa Chandon, em São Paulo, com o Estúdio Guto Requena.
+
+Dispositivos espalhados pelo espaço se comunicam por Wi-Fi e disparam, de forma sincronizada, animações de luz e música.
+
+A produção do projeto foi feita por Camila de Oliveira.

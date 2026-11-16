@@ -1,0 +1,21 @@
+titulo: O País que Perdeu as Cores — peça de rua
+ano: 2023
+funcao: Desenho de som e sistema de som portátil para os músicos de cordas
+local: Circuito Sesc de Artes (Andradina, Osvaldo Cruz e Adamantina) · Sesc 24 de Maio · Funarte SP
+cliente: Companhia Barco
+fomento: Lei Paulo Gustavo
+link: Infoteatro | https://infoteatro.com.br/peca/o-pais-que-perdeu-as-cores-2/
+link: Funarte | https://www.gov.br/funarte/pt-br/assuntos/noticias/todas-noticias/funarte-sp-apresenta-ensaio-aberto-da-montagem-2018o-pais-que-perdeu-as-cores2019
+link: Prefeitura de Andradina | https://www.andradina.sp.gov.br/portal/noticias/0/3/11736/circuito-sesc-de-artes-2024-vai-chegar-a-praca-moura-andrade
+link: Portal Prudentino | https://portalprudentino.com.br/noticia/cultura/circuito-sesc-de-artes-leva-programacao-gratuita-para-cidades-da-regiao
+---
+Espetáculo de rua da Companhia Barco, com direção de Rodrigo Mercadante, direção musical de André Leite e dramaturgia de Ana Paula Lopez, a partir do conto "Quando as cores foram proibidas", de Monika Feth.
+
+A montagem nasceu da audiopeça homônima, lançada pela companhia em 2022, e foi levada para espaços abertos: praças, parques e unidades do Sesc.
+
+Para a versão de rua, desenvolvi um sistema de som portátil para os músicos de cordas, que tocam ao vivo e se deslocam com o elenco pela cena.
+
+- Sesc Pompeia (2024)
+- Circuito Sesc de Artes 2024: Praça Moura Andrade, em Andradina; Osvaldo Cruz; Parque dos Pioneiros, em Adamantina.
+- Sesc 24 de Maio, São Paulo (2025).
+- Acessibilidade em Libras e audiodescrição.

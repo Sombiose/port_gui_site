@@ -1,0 +1,16 @@
+# Pastas que começam com _ são ignoradas pelo site.
+# Copie esta pasta, renomeie sem o _ (ex.: 2026-meu-projeto) e preencha.
+titulo: Nome do projeto
+ano: 2026
+funcao: O que você fez
+local: Cidade / espaço
+cliente: 
+link: Nome da fonte | https://...
+# video: https://vimeo.com/...
+---
+Primeiro parágrafo do texto.
+
+Segundo parágrafo.
+
+- itens com hífen viram lista
+- outro item

@@ -1,0 +1,14 @@
+titulo: Sala de Espera — Carlito Carvalhosa
+ano: 2025
+funcao: Sonorização generativa
+local: Sesc Pompeia, São Paulo
+cliente: Sesc Pompeia · Galeria Nara Roesler
+link: NeoFeed | https://neofeed.com.br/finde/a-arte-de-carlito-carvalhosa-traduzida-em-audio-por-sua-filha/
+link: Galeria Nara Roesler | https://nararoesler.art/news/998/
+---
+Sonorização generativa de Sala de Espera, obra de Carlito Carvalhosa, apresentada no Sesc Pompeia na mostra A Natureza das Coisas, com a Galeria Nara Roesler.
+
+A obra virou instrumento em uma performance musical com direção de EdBrass Brasil: captadores piezoelétricos escutam a estrutura e disparam sons espacializados pela sala.
+
+- Pré-amplificadores para os captadores piezoelétricos.
+- Programação sonora para ativação de samples e espacialização em 4.1.

@@ -1,0 +1,14 @@
+titulo: Galeria Melissa — 20 anos
+ano: 2025
+funcao: Desenvolvimento de hardware personalizado
+local: São Paulo
+cliente: Melissa · Allesblau
+credito: Artista desenvolvedor | Leston
+link: Promoview | https://www.promoview.com.br/galeria-melissa-20-anos-acoes/
+link: LAD Awards 2026 — Grand Prix | https://ladawards.org/2026/en/page/special-awards-2025
+---
+Instalação interativa para a comemoração dos 20 anos da Galeria Melissa, em São Paulo, realizada com o estúdio Allesblau.
+
+Desenvolvimento de hardware personalizado: sensores de distância percebem a presença do público e geram sinal para a interação em imagem e som generativos, que reagem de acordo com a aproximação.
+
+- Grand Prix na categoria Graphic Design do Latin American Design Awards (LAD Awards) 2026.

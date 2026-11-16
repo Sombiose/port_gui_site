@@ -1,0 +1,33 @@
+# Nomes que viram link na ficha dos projetos (cliente, agência, créditos, fomento).
+# Um por linha:  Nome exatamente como aparece no info.txt | https://endereço
+# Para adicionar um cliente ou uma pessoa nova, é só acrescentar uma linha aqui.
+
+# estúdios, galerias e parceiros
+Leston | https://leston.studio/
+Suplab | https://suplab.cc/
+Allesblau | https://allesblau.studio/
+Studio Firma | https://studiofirma.com.br/
+Estúdio Guto Requena | https://gutorequena.com/arte/
+Galeria Nara Roesler | https://nararoesler.art/
+AYA | https://aya.cx/
+Auroras | https://auroras.art.br/
+Companhia Barco | https://www.instagram.com/companhiabarco/
+ZoomB Lab | https://www.instagram.com/zoomb.lab/
+Ciência Prima | https://www.cienciaprima.com/
+
+# marcas e instituições
+Netflix | https://www.netflix.com/
+Melissa | https://www.melissa.com.br/
+Spotify | https://www.spotify.com/
+Mizuno | https://www.mizuno.com.br/
+Google | https://gemini.google.com/
+Renner | https://www.lojasrenner.com.br/
+Chandon | https://www.chandon.com.br/
+Valentino | https://www.valentino.com/
+Fiesp | https://www.fiesp.com.br/
+Sesc Pompeia | https://www.sescsp.org.br/unidades/pompeia/
+Sesc Guarulhos | https://www.sescsp.org.br/unidades/guarulhos/
+
+# sem link ainda (preencha quando tiver):
+Hood | https://www.hood.cx/
+# Arto Lindsay | https://...

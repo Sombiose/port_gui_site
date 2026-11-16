@@ -1,0 +1,10 @@
+titulo: Visceral — Dan Rossetto
+ano: 2019
+funcao: Criação de interfaces sonoras interativas
+# local: 
+# cliente: 
+# link: Nome da fonte | https://...
+# video: https://www.youtube.com/watch?v=...   (YouTube ou Vimeo, pode repetir a linha)
+ordem: 1100  
+---
+Peça teatral exibida no teatro Sátiros. Produção eletrônica de objetos cênicos e vestuário que interagem sonoramente com o público e atores.

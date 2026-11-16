@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Guilherme Fiorentini — Arte e Tecnologia</title>
+  <meta name="description" content="Guilherme Fiorentini — arte e tecnologia, hardware para instalações interativas, som generativo e audiovisual. São Paulo.">
+  <meta property="og:title" content="Guilherme Fiorentini">
+  <meta property="og:description" content="Arte e tecnologia · hardware · som · audiovisual">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#f3f2ee">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23111'/%3E%3Crect x='5' y='5' width='6' height='6' fill='%23ff3d00'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="topo">
+    <div class="topo__linha">
+      <a href="#/" class="marca" aria-label="Início">
+        <span class="marca__quadro" aria-hidden="true"></span>
+        <span class="marca__nome">Guilherme Fiorentini</span>
+        <span class="marca__cargo"> Artista Multidisciplinar e Desenvolvedor</span>
+      </a>
+      <nav class="menu" aria-label="Principal">
+        <a href="#/arte-tecnologia" data-secao="arte-tecnologia">Arte / Tecnologia</a>
+        <a href="#/audiovisual" data-secao="audiovisual">Audiovisual</a>
+        <a href="#/sobre" data-secao="sobre">Sobre</a>
+      </nav>
+    </div>
+  </header>
+  <!-- a linha: um sinal de FM como na tela de um osciloscópio — ver js/app.js.
+       Fica fora do cabeçalho: parada no topo da página, não acompanha a rolagem. -->
+  <canvas class="corda" aria-hidden="true"></canvas>
+
+  <main id="app" tabindex="-1"></main>
+
+  <footer class="rodape">
+    <span class="mono">© <span id="ano"></span> Guilherme Fiorentini · São Paulo</span>
+    <span class="rodape__links">
+      <a href="mailto:contato@guifiorentini.com">contato@guifiorentini.com</a>
+      <!-- <a href="https://instagram.com/SEU_USUARIO" target="_blank" rel="noopener">Instagram</a> -->
+    </span>
+  </footer>
+
+  <!-- ===================== SOBRE (edite à vontade) ===================== -->
+  <template id="tpl-sobre">
+    <section class="sobre">
+      <div class="sobre__intro">
+        <div class="sobre__texto">
+          <p class="rotulo mono">Sobre</p>
+          <h1 class="sobre__titulo"><span>Artista multidisciplinar e profissional audiovisual: desenvolvimento de hardware personalizado para criação de experiencia com público, desenho de som, trilha, coordenação audiovisual.</span></h1>
+        </div>
+        <!-- a foto vem da pasta /sobre (foto.jpg, foto.png...) -->
+        <figure class="sobre__foto"></figure>
+      </div>
+      <div class="sobre__colunas">
+        <div>
+          <p>Formado em Imagem e Som pela UFSCar e técnico em mecatrônica, desenvolvo hardware personalizado — sensores, eletrônica embarcada e firmware — para instalações interativas, exposições e ativações de marca.</p>
+          <p>No audiovisual, assino desenho de som, mixagem, trilha sonora, captação e edição de vídeo para cinema, série e podcast, além de operação de produção virtual.</p>
+          <p class="sobre__contato"><a href="mailto:contato@guifiorentini.com">contato@guifiorentini.com</a></p>
+        </div>
+        <dl class="ficha">
+          <dt>Hardware</dt><dd>ESP32, Arduino, Raspberry Pi · sensores de pulso, neurais, distância, giroscópios, piezos, encoders · LED e drivers de potência · PCB e pré-amplificadores · modelagem e impressão 3D</dd>
+          <dt>Programação</dt><dd>Firmware C/C++ · Max e Pure Data · machine learning em instalação · Wi-Fi, NFC, MIDI, OSC, DMX, I²C, serial</dd>
+          <dt>Som</dt><dd>Desenho de som, edição de diálogos, mixagem · som direto · espacialização 4.1 / 5.1 · sonorização generativa · trilha · Ableton, Pro Tools, Reaper</dd>
+          <dt>Vídeo</dt><dd>Produção virtual e LED wall · direção de fotografia · edição · vídeo 360 · vídeo generativo mapeado · Premiere, DaVinci Resolve</dd>
+          <dt>Exposição</dt><dd>Direção técnica · montagem, calibração e manutenção de obras em operação contínua · design de interação</dd>
+          <dt>Formação</dt><dd>Bacharelado em Imagem e Som — UFSCar (2018) · Técnico em Mecatrônica — ETEC Getúlio Vargas (2009) · Extensão em Programação — IME-USP · NuSom e GPI — ECA-USP (2019–2021)</dd>
+          <dt>Idiomas</dt><dd>Português nativo · inglês intermediário (leitura) · italiano intermediário (conversação) · espanhol básico</dd>
+        </dl>
+      </div>
+    </section>
+  </template>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

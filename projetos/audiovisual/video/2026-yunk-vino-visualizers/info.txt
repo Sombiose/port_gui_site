@@ -1,0 +1,9 @@
+titulo: Yunk Vino: Visualizers
+ano: 2026
+funcao: Programação audiorreativa de visualizers
+cliente: Yunk Vino · Labbel Records
+link: Billboard Brasil — álbum MR. | https://billboard.com.br/yunk-vino-mr-vestigios-o-processo-como-obra/
+video: https://www.youtube.com/watch?v=kJnyWzOk3ew
+video: https://www.youtube.com/watch?v=aHA9oUuA47w
+---
+Programação audio-reativa dos visualizers do álbum MR., de Yunk Vino, lançado em 26 de março de 2026 pela Labbel Records.

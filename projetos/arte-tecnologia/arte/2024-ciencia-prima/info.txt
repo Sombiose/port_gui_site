@@ -1,0 +1,10 @@
+titulo: Ciência Prima
+ano: 2024
+funcao: Desenvolvimento de obras interativas
+local: Museu Catavento, São Paulo
+cliente: Ciência Prima
+link: Ciência Prima · Catavento | https://www.cienciaprima.com/museu-catavento
+---
+Obras interativas de divulgação científica desenvolvidas com a Ciência Prima, empresa responsável pelas obras do Museu Catavento, em São Paulo.
+
+Desenvolvimento de hardware personalizado e interface UI para obras em museus de ciências. 

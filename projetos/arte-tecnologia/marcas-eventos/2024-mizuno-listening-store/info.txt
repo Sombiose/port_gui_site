@@ -1,0 +1,15 @@
+titulo: Mizuno — Listening Store
+ano: 2024
+funcao: Desenvolvimento de hardware personalizado
+local: Edifício Renata Sampaio, São Paulo
+cliente: Mizuno
+agencia: Hood
+credito: Artista desenvolvedor | Leston
+link: Creativos BR | https://creativosbr.com.br/mizuno-lanca-pop-up-no-coracao-de-sao-paulo/
+link: Mixmag Brasil | https://mixmag.com.br/read/mizuno-lanca-loja-pop-up-que-funciona-como-ponto-de-encontro-em-sao-paulo-para-apaixonados-por-musica-e-estilo-news
+---
+Loja pop-up da Mizuno no Edifício Renata Sampaio, em São Paulo, pensada como ponto de encontro entre música e estilo.
+
+Tênis suspensos viraram instrumentos: giroscópios instalados nos calçados produzem sons musicais conforme o visitante os movimenta.
+
+Desenvolvimento de hardware personalizado para a experiência.

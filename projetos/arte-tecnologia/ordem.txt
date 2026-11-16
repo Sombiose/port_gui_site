@@ -1,0 +1,28 @@
+# Ordem dos projetos de ARTE / TECNOLOGIA no site (de cima para baixo).
+# Um nome de pasta por linha. Para mudar a posição, mova a linha.
+# Para OCULTAR um projeto do site, coloque # na frente do nome, sem espaço:
+#     #2019-visceral
+# Para ele voltar a aparecer, é só tirar o #.
+# Projeto novo que não estiver aqui aparece no fim da lista.
+
+2026-netflix-mini-profile-screen
+2025-galeria-melissa-20-anos
+2024-premio-spotify
+2024-eu-pulso
+2025-arto-lindsay
+2025-sala-de-espera
+2024-mizuno-listening-store
+2025-arena-google-gemini-ccxp
+2025-renner-masp
+2023-nova-bienal-estrela-sensivel
+2023-nova-bienal-estimulos-emocionais
+2026-melissa-delirium
+2026-casa-chandon
+2026-zoop
+2025-valentino
+#2024-ciencia-prima
+2025-o-que-nos-une
+2023-terra-de-gigantes
+2025-cidade-sensivel
+2023-o-pais-que-perdeu-as-cores-rua
+2019-visceral

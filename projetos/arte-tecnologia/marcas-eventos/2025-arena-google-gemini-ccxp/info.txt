@@ -1,0 +1,13 @@
+titulo: Arena Google Gemini — CCXP
+ano: 2025
+funcao: Desenvolvimento de hardware personalizado
+local: CCXP, São Paulo
+cliente: Google
+agencia: Hood
+credito: Direção e desenvolvimento | Leston
+link: Promoview | https://www.promoview.com.br/as-agencias-por-tras-das-principais-ativacoes-da-ccxp-2025/
+---
+Interface física para a Arena Google Gemini na CCXP 2025, em São Paulo.
+
+Encoders, joystick e botões substituem o teclado: o público conduz com as mãos a geração de imagens por inteligência artificial.
+

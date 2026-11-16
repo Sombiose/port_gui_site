@@ -1,0 +1,7 @@
+titulo: TVTronics
+ano: 2018
+funcao: Desenho de som e mixagem
+fomento: ProAC
+video: https://www.youtube.com/watch?v=9ZxgPKKB8Do
+---
+Curta de animação dirigido por Ivanildo Soares, contemplado pelo ProAC.

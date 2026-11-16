@@ -1,0 +1,1471 @@
+{
+ "gerado": "2026-11-16",
+ "sobre": {
+  "foto": "sobre/_DSF7094.jpg",
+  "fotoWeb": "otimizadas/sobre/_DSF7094-tela.webp"
+ },
+ "nomes": {
+  "Leston": "https://leston.studio/",
+  "Suplab": "https://suplab.cc/",
+  "Allesblau": "https://allesblau.studio/",
+  "Studio Firma": "https://studiofirma.com.br/",
+  "Estúdio Guto Requena": "https://gutorequena.com/arte/",
+  "Galeria Nara Roesler": "https://nararoesler.art/",
+  "AYA": "https://aya.cx/",
+  "Auroras": "https://auroras.art.br/",
+  "Companhia Barco": "https://www.instagram.com/companhiabarco/",
+  "ZoomB Lab": "https://www.instagram.com/zoomb.lab/",
+  "Ciência Prima": "https://www.cienciaprima.com/",
+  "Netflix": "https://www.netflix.com/",
+  "Melissa": "https://www.melissa.com.br/",
+  "Spotify": "https://www.spotify.com/",
+  "Mizuno": "https://www.mizuno.com.br/",
+  "Google": "https://gemini.google.com/",
+  "Renner": "https://www.lojasrenner.com.br/",
+  "Chandon": "https://www.chandon.com.br/",
+  "Valentino": "https://www.valentino.com/",
+  "Fiesp": "https://www.fiesp.com.br/",
+  "Sesc Pompeia": "https://www.sescsp.org.br/unidades/pompeia/",
+  "Sesc Guarulhos": "https://www.sescsp.org.br/unidades/guarulhos/",
+  "Hood": "https://www.hood.cx/"
+ },
+ "projetos": [
+  {
+   "id": "2026-netflix-mini-profile-screen",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Netflix Mini Profile Screen",
+   "ano": "2026",
+   "anoFim": 2026,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/1.jpg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/2.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/3.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/3-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/4.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/4-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/4-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/5.png",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/5-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/5-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/6.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/6-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/6-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/7.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/7-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/7-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/8.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/8-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/8-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/9.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/9-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-netflix-mini-profile-screen/9-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "DNA Paris Design Awards",
+     "url": "https://dna.paris/social/zoom.php?eid=71-95571-26"
+    },
+    {
+     "rotulo": "Mídia Master",
+     "url": "https://www.midiamaster.com.br/"
+    }
+   ],
+   "texto": "Brinde interativo criado para a Netflix Ads e entregue aos convidados do evento Mídia Master.\n\nDesenvolvimento de design 3D do produto e a produção das peças, em parceria com Suplab e Leston.\n\n- 250 peças interativas impressas em 3D.\n- Menção honrosa no DNA Paris Design Awards, categoria Product Design / Experimental Design.",
+   "funcao": "Design 3D de produto e produção de brindes interativos",
+   "local": "Mídia Master",
+   "cliente": "Netflix",
+   "creditos": [
+    {
+     "rotulo": "Desenvolvimento",
+     "nome": "Suplab · Leston"
+    }
+   ]
+  },
+  {
+   "id": "2026-crialed",
+   "secao": "audiovisual",
+   "categoria": "producao-virtual",
+   "titulo": "CriaLed",
+   "ano": "2026",
+   "anoFim": 2026,
+   "ordem": 999,
+   "capa": "projetos/audiovisual/producao-virtual/2026-crialed/Captura de tela 2026-11-09 221235.png",
+   "capaWeb": "otimizadas/projetos/audiovisual/producao-virtual/2026-crialed/Captura de tela 2026-11-09 221235-web.webp",
+   "videos": [
+    {
+     "src": "https://www.youtube.com/watch?v=mKIT_Ks3pBA",
+     "vertical": false
+    }
+   ],
+   "midias": [],
+   "links": [
+    {
+     "rotulo": "CriaLed · produção virtual",
+     "url": "https://crialed.com.br/producao-virtual/led-wall-unreal-engine-tracking/"
+    }
+   ],
+   "texto": "Produção virtual em LED wall para séries, campanhas publicitárias e eventos.",
+   "funcao": "Operação de produção virtual",
+   "cliente": "CriaLed"
+  },
+  {
+   "id": "2025-galeria-melissa-20-anos",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Galeria Melissa — 20 anos",
+   "ano": "2025",
+   "anoFim": 2025,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2025-galeria-melissa-20-anos/1.png",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2025-galeria-melissa-20-anos/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-galeria-melissa-20-anos/2.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-galeria-melissa-20-anos/4.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-galeria-melissa-20-anos/5.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-galeria-melissa-20-anos/6.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-galeria-melissa-20-anos/7.mp4"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Promoview",
+     "url": "https://www.promoview.com.br/galeria-melissa-20-anos-acoes/"
+    },
+    {
+     "rotulo": "LAD Awards 2026 — Grand Prix",
+     "url": "https://ladawards.org/2026/en/page/special-awards-2025"
+    }
+   ],
+   "texto": "Instalação interativa para a comemoração dos 20 anos da Galeria Melissa, em São Paulo, realizada com o estúdio Allesblau.\n\nDesenvolvimento de hardware personalizado: sensores de distância percebem a presença do público e geram sinal para a interação em imagem e som generativos, que reagem de acordo com a aproximação.\n\n- Grand Prix na categoria Graphic Design do Latin American Design Awards (LAD Awards) 2026.",
+   "funcao": "Desenvolvimento de hardware personalizado",
+   "local": "São Paulo",
+   "cliente": "Melissa · Allesblau",
+   "creditos": [
+    {
+     "rotulo": "Artista desenvolvedor",
+     "nome": "Leston"
+    }
+   ]
+  },
+  {
+   "id": "2026-yunk-vino-visualizers",
+   "secao": "audiovisual",
+   "categoria": "video",
+   "titulo": "Yunk Vino: Visualizers",
+   "ano": "2026",
+   "anoFim": 2026,
+   "ordem": 999,
+   "capa": "projetos/audiovisual/video/2026-yunk-vino-visualizers/QUEM MANDA.png",
+   "capaWeb": "otimizadas/projetos/audiovisual/video/2026-yunk-vino-visualizers/QUEM MANDA-web.webp",
+   "videos": [
+    {
+     "src": "https://www.youtube.com/watch?v=kJnyWzOk3ew",
+     "vertical": false
+    },
+    {
+     "src": "https://www.youtube.com/watch?v=aHA9oUuA47w",
+     "vertical": false
+    }
+   ],
+   "midias": [],
+   "links": [
+    {
+     "rotulo": "Billboard Brasil — álbum MR.",
+     "url": "https://billboard.com.br/yunk-vino-mr-vestigios-o-processo-como-obra/"
+    }
+   ],
+   "texto": "Programação audio-reativa dos visualizers do álbum MR., de Yunk Vino, lançado em 26 de março de 2026 pela Labbel Records.",
+   "funcao": "Programação audiorreativa de visualizers",
+   "cliente": "Yunk Vino · Labbel Records"
+  },
+  {
+   "id": "2024-premio-spotify",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Prêmio Spotify",
+   "ano": "2024",
+   "anoFim": 2024,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/1.jpg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/2.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/3.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/3-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/4.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/5.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/6.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/6-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/6-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/image-3.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/image-3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-premio-spotify/image-3-mini.webp"
+    }
+   ],
+   "links": [],
+   "texto": "Troféus interativos entregues pelo Spotify aos 65 artistas mais ouvidos da plataforma, projeto desenvolvido pela Suplab.\n\nFiquei responsável pela produção e montagem eletrônica.\n\n- 65 troféus produzidos.\n- Projeto vencedor do Latin America Design Awards.",
+   "funcao": "Produção eletrônica dos troféus",
+   "cliente": "Spotify · Suplab"
+  },
+  {
+   "id": "jornal-da-usp",
+   "secao": "audiovisual",
+   "categoria": "coordenacao-audiovisual",
+   "titulo": "Jornal da USP",
+   "ano": "2019 – 2024",
+   "anoFim": 2024,
+   "ordem": 999,
+   "capa": "projetos/audiovisual/coordenacao-audiovisual/jornal-da-usp/1.png",
+   "capaWeb": "otimizadas/projetos/audiovisual/coordenacao-audiovisual/jornal-da-usp/1-web.webp",
+   "videos": [
+    {
+     "src": "https://www.youtube.com/watch?v=rS6oJOQR-vI",
+     "vertical": false
+    },
+    {
+     "src": "https://www.youtube.com/watch?v=TKOaAjd7bts",
+     "vertical": false
+    }
+   ],
+   "midias": [
+    {
+     "tipo": "img",
+     "src": "projetos/audiovisual/coordenacao-audiovisual/jornal-da-usp/2.png",
+     "web": "otimizadas/projetos/audiovisual/coordenacao-audiovisual/jornal-da-usp/2-web.webp",
+     "mini": "otimizadas/projetos/audiovisual/coordenacao-audiovisual/jornal-da-usp/2-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Ciência USP #23 — A culpa não é da capivara",
+     "url": "https://open.spotify.com/episode/2V1RM2ZcBGxzvDLBE3KQCK"
+    },
+    {
+     "rotulo": "Momento Cidade #47 — Como o skate marcou as ruas de São Paulo?",
+     "url": "https://open.spotify.com/episode/2gHTZiQtLJTJYhobnncikv"
+    }
+   ],
+   "texto": "Divulgação científica na Universidade de São Paulo.\n\nCoordenação de equipe e produção audiovisual de vídeos documentais, podcasts e lives, atuando em todas as editorias do Jornal da USP.\n\n- Coordenação da equipe de estagiários na produção de vídeos e podcasts.\n- Conteúdo para o site, o canal no YouTube e plataformas de áudio.",
+   "funcao": "Coordenação de equipe e produção audiovisual",
+   "local": "Universidade de São Paulo"
+  },
+  {
+   "id": "2024-eu-pulso",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "Eu, Pulso — 12ª Mostra 3M de Arte",
+   "ano": "2024",
+   "anoFim": 2024,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/arte/2024-eu-pulso/1.jpg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/1-web.webp",
+   "videos": [
+    {
+     "src": "https://www.youtube.com/watch?v=qDgTsyMXDYw",
+     "vertical": false
+    }
+   ],
+   "midias": [
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2024-eu-pulso/2.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/2-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/2-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2024-eu-pulso/3.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/3-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2024-eu-pulso/4.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/4-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/4-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2024-eu-pulso/5.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/5-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/5-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2024-eu-pulso/6.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/6-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2024-eu-pulso/6-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2024-eu-pulso/7.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2024-eu-pulso/8.mp4"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Mostra 3M · Guto Requena",
+     "url": "https://www.mostra3mdearte.com.br/12-mostra-3m-artistas-guto-requena/"
+    },
+    {
+     "rotulo": "Mostra 3M",
+     "url": "https://www.mostra3mdearte.com.br/12-mostra-3m/"
+    }
+   ],
+   "texto": "Obra do Estúdio Guto Requena na 12ª Mostra 3M de Arte, instalada na Casa das Araras, no Parque Augusta, em São Paulo.\n\nDesenvolvimento de hardware personalizado envolvendo sensor de pulso que lê o batimento cardíaco do público e o transforma em música em tempo real: cada visitante compõe, a trilha da obra com o próprio corpo.\n\nA produção da obra foi feita por Camila de Oliveira.",
+   "funcao": "Hardware, eletrônica e produção virtual",
+   "local": "Parque Augusta, São Paulo",
+   "cliente": "Estúdio Guto Requena"
+  },
+  {
+   "id": "2024-nemito",
+   "secao": "audiovisual",
+   "categoria": "som",
+   "titulo": "Nemito",
+   "ano": "2024",
+   "anoFim": 2024,
+   "ordem": 999,
+   "capa": "projetos/audiovisual/som/2024-nemito/Captura de tela 2026-11-09 152848.png",
+   "capaWeb": "otimizadas/projetos/audiovisual/som/2024-nemito/Captura de tela 2026-11-09 152848-web.webp",
+   "videos": [
+    {
+     "src": "https://vimeo.com/796438374",
+     "vertical": false
+    }
+   ],
+   "midias": [],
+   "links": [
+    {
+     "rotulo": "Ficha do filme",
+     "url": "https://www.filmesdogajo.pt/nemito"
+    },
+    {
+     "rotulo": "Loberoso",
+     "url": "https://loberoso.com/About"
+    }
+   ],
+   "texto": "Curta de animação dirigido por Ivanildo Soares. Loberoso.",
+   "funcao": "Desenho de som",
+   "cliente": "Loberoso"
+  },
+  {
+   "id": "2025-arto-lindsay",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "Arto Lindsay — exposição individual",
+   "ano": "2025",
+   "anoFim": 2025,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/arte/2025-arto-lindsay/1.jpg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/2.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/2-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/2-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/3.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/4.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/4-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/4-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/5.png",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/5-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/5-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/6.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/7.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/7-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/7-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/8.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/8-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/8-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/9.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/9-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/9-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/10.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/10-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/10-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/11.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/11-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/11-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/12.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/12-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/12-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/13.png",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/13-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/13-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/14.png",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/14-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/14-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-arto-lindsay/15.png",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/15-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-arto-lindsay/15-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Auroras",
+     "url": "https://auroras.art.br/exhibitions/arto-lindsay/"
+    },
+    {
+     "rotulo": "Contemporary Art Daily",
+     "url": "https://www.contemporaryartdaily.com/project/arto-lindsay-at-auroras-sao-paulo-55671"
+    }
+   ],
+   "texto": "Desenvolvimento de hardware personalizado para três esculturas sonoras para a exposição individual de Arto Lindsay na Auroras, em São Paulo.",
+   "funcao": "Programação sonora, amplificação e hardware",
+   "local": "Auroras, São Paulo",
+   "cliente": "Arto Lindsay · Auroras",
+   "creditos": [
+    {
+     "rotulo": "Desenho de som",
+     "nome": "Leston"
+    }
+   ]
+  },
+  {
+   "id": "2024-o-mar-nao-esta-para-peixe",
+   "secao": "audiovisual",
+   "categoria": "som",
+   "titulo": "O Mar não está pra peixe",
+   "ano": "2024",
+   "anoFim": 2024,
+   "ordem": 999,
+   "capa": "projetos/audiovisual/som/2024-o-mar-nao-esta-para-peixe/Podcast_Capa-FINAL_Famigerado-Estudio.png",
+   "capaWeb": "otimizadas/projetos/audiovisual/som/2024-o-mar-nao-esta-para-peixe/Podcast_Capa-FINAL_Famigerado-Estudio-web.webp",
+   "videos": [],
+   "midias": [],
+   "links": [
+    {
+     "rotulo": "Jornal da USP",
+     "url": "https://jornal.usp.br/sinopses-podcasts/o-mar-nao-esta-pra-peixe/"
+    },
+    {
+     "rotulo": "Instituto Serrapilheira",
+     "url": "https://serrapilheira.org/en/?p=14800"
+    },
+    {
+     "rotulo": "Spotify",
+     "url": "https://open.spotify.com/show/7mX1THhtX8EvSfce8lkbWT"
+    }
+   ],
+   "texto": "Série documental em podcast sobre tudo de bom que o oceano faz por nós, e tudo de ruim que estamos fazendo com ele. Cinco episódios, lançados quinzenalmente a partir de julho de 2024, com reportagem e apresentação de Herton Escobar.\n\nProjeto contemplado pelo Instituto Serrapilheira no apoio à divulgação científica.",
+   "funcao": "Direção sonora e captação de som direto",
+   "local": "Jornal da USP",
+   "cliente": "Jornal da USP",
+   "fomento": "Instituto Serrapilheira — divulgação científica"
+  },
+  {
+   "id": "2025-sala-de-espera",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "Sala de Espera — Carlito Carvalhosa",
+   "ano": "2025",
+   "anoFim": 2025,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/arte/2025-sala-de-espera/1.png",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2025-sala-de-espera/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-sala-de-espera/2.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-sala-de-espera/3.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-sala-de-espera/4.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-sala-de-espera/5.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-sala-de-espera/6.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-sala-de-espera/6-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-sala-de-espera/6-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "NeoFeed",
+     "url": "https://neofeed.com.br/finde/a-arte-de-carlito-carvalhosa-traduzida-em-audio-por-sua-filha/"
+    },
+    {
+     "rotulo": "Galeria Nara Roesler",
+     "url": "https://nararoesler.art/news/998/"
+    }
+   ],
+   "texto": "Sonorização generativa de Sala de Espera, obra de Carlito Carvalhosa, apresentada no Sesc Pompeia na mostra A Natureza das Coisas, com a Galeria Nara Roesler.\n\nA obra virou instrumento em uma performance musical com direção de EdBrass Brasil: captadores piezoelétricos escutam a estrutura e disparam sons espacializados pela sala.\n\n- Pré-amplificadores para os captadores piezoelétricos.\n- Programação sonora para ativação de samples e espacialização em 4.1.",
+   "funcao": "Sonorização generativa",
+   "local": "Sesc Pompeia, São Paulo",
+   "cliente": "Sesc Pompeia · Galeria Nara Roesler"
+  },
+  {
+   "id": "2021-sementes-da-educacao",
+   "secao": "audiovisual",
+   "categoria": "som",
+   "titulo": "Sementes da Educação — 2ª temporada",
+   "ano": "2021",
+   "anoFim": 2021,
+   "ordem": 999,
+   "capa": "projetos/audiovisual/som/2021-sementes-da-educacao/sementes 3.png",
+   "capaWeb": "otimizadas/projetos/audiovisual/som/2021-sementes-da-educacao/sementes 3-web.webp",
+   "videos": [
+    {
+     "src": "https://www.youtube.com/watch?v=F36QCr2KjPY",
+     "vertical": false
+    }
+   ],
+   "midias": [],
+   "links": [
+    {
+     "rotulo": "Site da série",
+     "url": "https://sementesdaeducacao.com.br/"
+    },
+    {
+     "rotulo": "Ficha técnica",
+     "url": "https://sementesdaeducacao.com.br/ficha-tecnica/"
+    },
+    {
+     "rotulo": "Tela Viva",
+     "url": "https://telaviva.com.br/26/05/2021/segunda-temporada-de-sementes-da-educacao-estreia-no-cinebrasil-tv/"
+    }
+   ],
+   "texto": "Série documental em 13 episódios de 26 minutos, exibida pela Cinebrasil TV. A equipe percorreu mais de 18 mil quilômetros pelas cinco regiões do país mostrando iniciativas de educação pública que vão \"além dos muros\" da escola.\n\nRealizada com financiamento do Fundo Setorial do Audiovisual (FSA), via Ancine e BRDE.",
+   "funcao": "Desenho de som e mixagem",
+   "cliente": "Oz Produtora · Cinebrasil TV",
+   "fomento": "Fundo Setorial do Audiovisual (FSA) · Ancine · BRDE"
+  },
+  {
+   "id": "2024-mizuno-listening-store",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Mizuno — Listening Store",
+   "ano": "2024",
+   "anoFim": 2024,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/1.jpeg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/2.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/3.png",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/3-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/4.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/5.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/5-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/5-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/6.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/6-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/6-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2024-mizuno-listening-store/7.mp4"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Creativos BR",
+     "url": "https://creativosbr.com.br/mizuno-lanca-pop-up-no-coracao-de-sao-paulo/"
+    },
+    {
+     "rotulo": "Mixmag Brasil",
+     "url": "https://mixmag.com.br/read/mizuno-lanca-loja-pop-up-que-funciona-como-ponto-de-encontro-em-sao-paulo-para-apaixonados-por-musica-e-estilo-news"
+    }
+   ],
+   "texto": "Loja pop-up da Mizuno no Edifício Renata Sampaio, em São Paulo, pensada como ponto de encontro entre música e estilo.\n\nTênis suspensos viraram instrumentos: giroscópios instalados nos calçados produzem sons musicais conforme o visitante os movimenta.\n\nDesenvolvimento de hardware personalizado para a experiência.",
+   "funcao": "Desenvolvimento de hardware personalizado",
+   "local": "Edifício Renata Sampaio, São Paulo",
+   "cliente": "Mizuno",
+   "agencia": "Hood",
+   "creditos": [
+    {
+     "rotulo": "Artista desenvolvedor",
+     "nome": "Leston"
+    }
+   ]
+  },
+  {
+   "id": "oz-produtora",
+   "secao": "audiovisual",
+   "categoria": "video",
+   "titulo": "OZ Produtora",
+   "ano": "2018 – 2019",
+   "anoFim": 2019,
+   "ordem": 999,
+   "capa": "projetos/audiovisual/video/oz-produtora/images.png",
+   "capaWeb": "otimizadas/projetos/audiovisual/video/oz-produtora/images-web.webp",
+   "videos": [
+    {
+     "src": "https://www.youtube.com/watch?v=Wb-e9rkuiZw",
+     "vertical": false
+    }
+   ],
+   "midias": [],
+   "links": [
+    {
+     "rotulo": "Oz Produtora",
+     "url": "https://ozprodutora.com.br/"
+    },
+    {
+     "rotulo": "Sementes da Educação",
+     "url": "https://sementesdaeducacao.com.br/"
+    }
+   ],
+   "texto": "Produtora audiovisual que realiza comerciais, vídeos institucionais, documentários, videoclipes e animações, além de projetos autorais na área cultural.\n\nNa Oz atuei como videomaker em todas as etapas, da captação à finalização, em vídeos de eventos, publicidade e cultura.\n\n- Captação de imagem, direção de fotografia e operação de estabilizador.\n- Captação em vídeo 360.\n- Edição e montagem de vídeo.\n- Captação de som direto, edição e mixagem.",
+   "funcao": "Videomaker — captação, edição de vídeo, fotografia e som"
+  },
+  {
+   "id": "2025-arena-google-gemini-ccxp",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Arena Google Gemini — CCXP",
+   "ano": "2025",
+   "anoFim": 2025,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2025-arena-google-gemini-ccxp/1.jpeg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2025-arena-google-gemini-ccxp/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-arena-google-gemini-ccxp/3.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2025-arena-google-gemini-ccxp/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2025-arena-google-gemini-ccxp/3-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-arena-google-gemini-ccxp/4.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-arena-google-gemini-ccxp/5.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-arena-google-gemini-ccxp/6.mp4"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Promoview",
+     "url": "https://www.promoview.com.br/as-agencias-por-tras-das-principais-ativacoes-da-ccxp-2025/"
+    }
+   ],
+   "texto": "Interface física para a Arena Google Gemini na CCXP 2025, em São Paulo.\n\nEncoders, joystick e botões substituem o teclado: o público conduz com as mãos a geração de imagens por inteligência artificial.",
+   "funcao": "Desenvolvimento de hardware personalizado",
+   "local": "CCXP, São Paulo",
+   "cliente": "Google",
+   "agencia": "Hood",
+   "creditos": [
+    {
+     "rotulo": "Direção e desenvolvimento",
+     "nome": "Leston"
+    }
+   ]
+  },
+  {
+   "id": "fruto-teaser",
+   "secao": "audiovisual",
+   "categoria": "som",
+   "titulo": "Fruto — teaser",
+   "ano": "",
+   "anoFim": 0,
+   "ordem": 999,
+   "capa": "projetos/audiovisual/som/fruto-teaser/Captura de tela 2026-11-16 154340.png",
+   "capaWeb": "otimizadas/projetos/audiovisual/som/fruto-teaser/Captura de tela 2026-11-16 154340-web.webp",
+   "videos": [
+    {
+     "src": "https://www.youtube.com/watch?v=ZbMGDqgH-9g",
+     "vertical": false
+    }
+   ],
+   "midias": [],
+   "links": [],
+   "texto": "Trilha sonora original e mixagem do teaser de Fruto.",
+   "funcao": "Trilha sonora e mixagem"
+  },
+  {
+   "id": "2025-renner-masp",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Renner — MASP",
+   "ano": "2025",
+   "anoFim": 2025,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2025-renner-masp/1.jpeg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2025-renner-masp/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-renner-masp/2.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-renner-masp/3.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-renner-masp/4.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-renner-masp/5.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-renner-masp/6.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-renner-masp/7.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-renner-masp/8.mp4"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Meio & Mensagem",
+     "url": "https://www.meioemensagem.com.br/patrocinado/renner/renner-celebra-nova-colecao-com-famosos-no-masp"
+    }
+   ],
+   "texto": "Ativação da Renner no edifício Pietro Maria Bardi, do MASP, no lançamento de uma nova coleção.\n\nGiroscópios instalados nas peças de roupa leem o movimento de quem as veste e alteram, em tempo real, os parâmetros da imagem exibida em um painel de LED.",
+   "funcao": "Desenvolvimento de hardware personalizado",
+   "local": "MASP, São Paulo",
+   "cliente": "Renner",
+   "agencia": "Hood",
+   "creditos": [
+    {
+     "rotulo": "Artista desenvolvedor",
+     "nome": "Leston"
+    }
+   ]
+  },
+  {
+   "id": "2023-nova-bienal-estrela-sensivel",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "NOVA — Bienal Rio de Arte e Tecnologia: Estrela Sensível",
+   "ano": "2023",
+   "anoFim": 2023,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/1.JPG",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/2.JPG",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/2-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/2-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/3.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/3-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/4.JPG",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/4-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/4-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/5.1.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/5.1-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/5.1-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/6.JPG",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/6-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/6-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/7.JPG",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/7-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estrela-sensivel/7-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "FILE Festival",
+     "url": "https://file.org.br/highlight/portugues-nova-bienal-rio-de-arte-e-tecnologia/"
+    },
+    {
+     "rotulo": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-09/museu-do-amanha-recebe-nova-bienal-rio-arte-e-tecnologia"
+    }
+   ],
+   "texto": "Obra do Estúdio Guto Requena na 1ª edição da NOVA — Bienal Rio de Arte e Tecnologia, no Museu do Amanhã, no Rio de Janeiro.\n\nAtualização da obra e desenvolvimento de hardware personalizado.\n\nSensores de distância percebem a aproximação do público e geram luz e música generativos.\n\nA produção da obra foi feita por Camila de Oliveira.",
+   "funcao": "Hardware, programação e eletrônica",
+   "local": "Museu do Amanhã, Rio de Janeiro",
+   "cliente": "Estúdio Guto Requena"
+  },
+  {
+   "id": "2023-nova-bienal-estimulos-emocionais",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "NOVA — Bienal Rio de Arte e Tecnologia: Estímulos Emocionais",
+   "ano": "2023",
+   "anoFim": 2023,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/1.JPG",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/2.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/2-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/2-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/3.JPG",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/3-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/4.JPG",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/4-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/4-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/5.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/5-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-nova-bienal-estimulos-emocionais/5-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "FILE Festival",
+     "url": "https://file.org.br/highlight/portugues-nova-bienal-rio-de-arte-e-tecnologia/"
+    },
+    {
+     "rotulo": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-09/museu-do-amanha-recebe-nova-bienal-rio-arte-e-tecnologia"
+    }
+   ],
+   "texto": "Obra do Estúdio Guto Requena na 1ª edição da NOVA — Bienal Rio de Arte e Tecnologia, no Museu do Amanhã, no Rio de Janeiro.\n\nAtualização da obra e desenvolvimento de hardware personalizado \n\nSensores de pulso e sensores neurais leem o corpo do público e traduzem esses sinais em imagem, luz e som generativos.\n\nA produção da obra foi feita por Camila de Oliveira.",
+   "funcao": "Hardware, programação e eletrônica",
+   "local": "Museu do Amanhã, Rio de Janeiro",
+   "cliente": "Estúdio Guto Requena"
+  },
+  {
+   "id": "2026-melissa-delirium",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Melissa Delirium",
+   "ano": "2026",
+   "anoFim": 2026,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/1.png",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/2.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/3.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/3-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/4.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/4-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/4-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/5.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/6.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-melissa-delirium/7.mp4"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Revista Live Marketing",
+     "url": "https://revistalivemarketing.com.br/pavilhao-da-bienal-sedia-megaevento-da-melissa-delirium-em-convencao-anual-focada-em-design-experimental-e-futurismo/"
+    }
+   ],
+   "texto": "Hardware para o MegaEvento Melissa Delirium, convenção anual da marca no Pavilhão da Bienal, em São Paulo.\n\nDesenvolvimento de interface física de botões que conduz o público na geração de imagens por inteligência artificial.",
+   "funcao": "Desenvolvimento de hardware personalizado",
+   "local": "Pavilhão da Bienal, São Paulo",
+   "cliente": "Melissa",
+   "creditos": [
+    {
+     "rotulo": "Artista desenvolvedor",
+     "nome": "Leston"
+    }
+   ]
+  },
+  {
+   "id": "2026-casa-chandon",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Casa Chandon",
+   "ano": "2026",
+   "anoFim": 2026,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/1.jpeg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/2.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/3.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/3-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/4.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/4-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/4-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/5.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/5-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/5-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/6.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/7.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/8.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/8-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-casa-chandon/8-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Exame",
+     "url": "https://exame.com/casual/casa-chandon-retorna-a-sao-paulo/"
+    },
+    {
+     "rotulo": "Live Marketing",
+     "url": "https://livemarketing.com.br/casa-chandon-retorna-para-5a-edicao-em-sao-paulo"
+    }
+   ],
+   "texto": "Desenvolvimento de hardware personalizado para a 5ª edição da Casa Chandon, em São Paulo, com o Estúdio Guto Requena.\n\nDispositivos espalhados pelo espaço se comunicam por Wi-Fi e disparam, de forma sincronizada, animações de luz e música.\n\nA produção do projeto foi feita por Camila de Oliveira.",
+   "funcao": "Desenvolvimento de hardware personalizado",
+   "local": "São Paulo",
+   "cliente": "Chandon · Estúdio Guto Requena"
+  },
+  {
+   "id": "2026-zoop",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Zoop - Summit26",
+   "ano": "2026",
+   "anoFim": 2026,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2026-zoop/1.jpg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-zoop/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-zoop/2.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-zoop/3.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-zoop/4.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-zoop/5.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-zoop/5-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-zoop/5-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-zoop/6.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-zoop/6-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-zoop/6-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-zoop/7.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-zoop/8.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2026-zoop/9.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-zoop/9-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2026-zoop/9-mini.webp"
+    }
+   ],
+   "links": [],
+   "texto": "Desenvolvimento de hardware para interação de obra visual em evento de inovação promovido pela Zoop.\n\nO celular, através do NFC, ativa a animação em painéis de Led enfileirados.",
+   "funcao": "Desenvolvimento de hardware personalizado",
+   "cliente": "Zoop",
+   "agencia": "Grupo Berlinn e Suplab",
+   "creditos": [
+    {
+     "rotulo": "Artista desenvolvedor",
+     "nome": "Leston"
+    }
+   ]
+  },
+  {
+   "id": "2025-valentino",
+   "secao": "arte-tecnologia",
+   "categoria": "marcas-eventos",
+   "titulo": "Valentino — lançamento de perfume",
+   "ano": "2025",
+   "anoFim": 2025,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/marcas-eventos/2025-valentino/1.png",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/marcas-eventos/2025-valentino/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-valentino/2.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-valentino/3.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-valentino/4.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/marcas-eventos/2025-valentino/5.mp4"
+    }
+   ],
+   "links": [],
+   "texto": "Hardware interativo para o lançamento de uma linha de perfumes Valentino, com a agência Studio Firma.\n\nTags NFC disparam a reprodução de vídeos e acionam luz, quando retiradas do totem.",
+   "funcao": "Desenvolvimento de hardware personalizado",
+   "cliente": "Valentino",
+   "agencia": "Studio Firma",
+   "creditos": [
+    {
+     "rotulo": "Artista desenvolvedor",
+     "nome": "Leston"
+    }
+   ]
+  },
+  {
+   "id": "2025-o-que-nos-une",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "O que nos une — Miguel Nicolelis",
+   "ano": "2025",
+   "anoFim": 2025,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/arte/2025-o-que-nos-une/1.jpg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2025-o-que-nos-une/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-o-que-nos-une/2.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-o-que-nos-une/3.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-o-que-nos-une/4.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-o-que-nos-une/5.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2025-o-que-nos-une/6.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2025-o-que-nos-une/6-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2025-o-que-nos-une/6-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Sesi Cultura",
+     "url": "https://www.sesisp.org.br/cultura/o-que-nos-une-abre-ao-publico-no-centro-cultural-fiesp-e-apresenta-teorias-do-neurocientista-miguel-nicolelis-em-forma-de-arte"
+    },
+    {
+     "rotulo": "Fiesp",
+     "url": "https://www.fiesp.com.br/mobile/noticias/?id=306073"
+    }
+   ],
+   "texto": "Exposição no Centro Cultural FIESP que traduz em arte as teorias do neurocientista Miguel Nicolelis, realizada com a AYA.\n\nDesenvolvimento de hardware personalizado de uma das obras: três sensores de pulso e uma interface personalizada geram luz e som a partir do batimento cardíaco do público.",
+   "funcao": "Desenvolvimento de hardware para uma das obras",
+   "local": "Centro Cultural FIESP, São Paulo",
+   "cliente": "Fiesp · AYA"
+  },
+  {
+   "id": "2023-terra-de-gigantes",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "Terra de Gigantes",
+   "ano": "2023",
+   "anoFim": 2023,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/arte/2023-terra-de-gigantes/1.png",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2023-terra-de-gigantes/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-terra-de-gigantes/2.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-terra-de-gigantes/2-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-terra-de-gigantes/2-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-terra-de-gigantes/3.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-terra-de-gigantes/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-terra-de-gigantes/3-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-terra-de-gigantes/4.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-terra-de-gigantes/4-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-terra-de-gigantes/4-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-terra-de-gigantes/5.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-terra-de-gigantes/5-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-terra-de-gigantes/5-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Sesc São Paulo",
+     "url": "https://www.sescsp.org.br/terra-de-gigantes-exposicao-imersiva-no-sesc-guarulhos-debate-o-corpo-negro-e-indigena-no-mundo-contemporaneo/"
+    },
+    {
+     "rotulo": "Guarulhos Hoje",
+     "url": "https://www.guarulhoshoje.com.br/2023/04/28/sesc-guarulhos-inaugura-exposicao-imersiva-e-interativa-inedita-no-pais/"
+    }
+   ],
+   "texto": "Exposição imersiva e interativa no Sesc Guarulhos, realizada com o ZoomB Lab, que debate o corpo negro e indígena no mundo contemporâneo.\n\nDesenvolvimento de 27 interfaces personalizadas com sensores de distância e comunicação Wi-Fi: a presença do público ativa os vídeos projetados pela exposição.",
+   "funcao": "Desenvolvimento de interfaces interativas",
+   "local": "Sesc Guarulhos",
+   "cliente": "Sesc Guarulhos · ZoomB Lab"
+  },
+  {
+   "id": "2025-cidade-sensivel",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "Cidade Sensível",
+   "ano": "2025",
+   "anoFim": 2025,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/arte/2025-cidade-sensivel/1.jpg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2025-cidade-sensivel/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-cidade-sensivel/2.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2025-cidade-sensivel/3.mp4"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Prefeitura de Presidente Prudente",
+     "url": "https://www.presidenteprudente.sp.gov.br/site/noticia/66147"
+    }
+   ],
+   "texto": "Exposição de arte e tecnologia em Presidente Prudente (SP), realizada com a Fundação Inova Prudente e contemplada pelo ProAC.\n\nAlém da direção técnica da mostra, desenvolvi duas obras com machine learning, programação sonora e hardware personalizado — eletrônica, programação e produção virtual.",
+   "funcao": "Direção técnica da exposição e desenvolvimento de duas obras",
+   "local": "Presidente Prudente, SP",
+   "cliente": "Fundação Inova Prudente",
+   "fomento": "ProAC"
+  },
+  {
+   "id": "2023-o-pais-que-perdeu-as-cores-rua",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "O País que Perdeu as Cores — peça de rua",
+   "ano": "2023",
+   "anoFim": 2023,
+   "ordem": 999,
+   "capa": "projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/1.png",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/2.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/2-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/2-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/3.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/3-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/3-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/4.jpeg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/4-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2023-o-pais-que-perdeu-as-cores-rua/4-mini.webp"
+    }
+   ],
+   "links": [
+    {
+     "rotulo": "Infoteatro",
+     "url": "https://infoteatro.com.br/peca/o-pais-que-perdeu-as-cores-2/"
+    },
+    {
+     "rotulo": "Funarte",
+     "url": "https://www.gov.br/funarte/pt-br/assuntos/noticias/todas-noticias/funarte-sp-apresenta-ensaio-aberto-da-montagem-2018o-pais-que-perdeu-as-cores2019"
+    },
+    {
+     "rotulo": "Prefeitura de Andradina",
+     "url": "https://www.andradina.sp.gov.br/portal/noticias/0/3/11736/circuito-sesc-de-artes-2024-vai-chegar-a-praca-moura-andrade"
+    },
+    {
+     "rotulo": "Portal Prudentino",
+     "url": "https://portalprudentino.com.br/noticia/cultura/circuito-sesc-de-artes-leva-programacao-gratuita-para-cidades-da-regiao"
+    }
+   ],
+   "texto": "Espetáculo de rua da Companhia Barco, com direção de Rodrigo Mercadante, direção musical de André Leite e dramaturgia de Ana Paula Lopez, a partir do conto \"Quando as cores foram proibidas\", de Monika Feth.\n\nA montagem nasceu da audiopeça homônima, lançada pela companhia em 2022, e foi levada para espaços abertos: praças, parques e unidades do Sesc.\n\nPara a versão de rua, desenvolvi um sistema de som portátil para os músicos de cordas, que tocam ao vivo e se deslocam com o elenco pela cena.\n\n- Sesc Pompeia (2024)\n- Circuito Sesc de Artes 2024: Praça Moura Andrade, em Andradina; Osvaldo Cruz; Parque dos Pioneiros, em Adamantina.\n- Sesc 24 de Maio, São Paulo (2025).\n- Acessibilidade em Libras e audiodescrição.",
+   "funcao": "Desenho de som e sistema de som portátil para os músicos de cordas",
+   "local": "Circuito Sesc de Artes (Andradina, Osvaldo Cruz e Adamantina) · Sesc 24 de Maio · Funarte SP",
+   "cliente": "Companhia Barco",
+   "fomento": "Lei Paulo Gustavo"
+  },
+  {
+   "id": "2019-visceral",
+   "secao": "arte-tecnologia",
+   "categoria": "arte",
+   "titulo": "Visceral — Dan Rossetto",
+   "ano": "2019",
+   "anoFim": 2019,
+   "ordem": 1100,
+   "capa": "projetos/arte-tecnologia/arte/2019-visceral/1.jpg",
+   "capaWeb": "otimizadas/projetos/arte-tecnologia/arte/2019-visceral/1-web.webp",
+   "videos": [],
+   "midias": [
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/2.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/3.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/4.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/5.mp4"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/6.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/7.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2019-visceral/7-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2019-visceral/7-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/8.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2019-visceral/8-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2019-visceral/8-mini.webp"
+    },
+    {
+     "tipo": "video",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/9.mp4"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/11.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2019-visceral/11-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2019-visceral/11-mini.webp"
+    },
+    {
+     "tipo": "img",
+     "src": "projetos/arte-tecnologia/arte/2019-visceral/13.jpg",
+     "web": "otimizadas/projetos/arte-tecnologia/arte/2019-visceral/13-web.webp",
+     "mini": "otimizadas/projetos/arte-tecnologia/arte/2019-visceral/13-mini.webp"
+    }
+   ],
+   "links": [],
+   "texto": "Peça teatral exibida no teatro Sátiros. Produção eletrônica de objetos cênicos e vestuário que interagem sonoramente com o público e atores.",
+   "funcao": "Criação de interfaces sonoras interativas"
+  }
+ ]
+}

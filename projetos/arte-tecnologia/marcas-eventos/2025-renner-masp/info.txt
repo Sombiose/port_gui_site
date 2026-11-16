@@ -1,0 +1,14 @@
+titulo: Renner — MASP
+ano: 2025
+funcao: Desenvolvimento de hardware personalizado
+local: MASP, São Paulo
+cliente: Renner
+agencia: Hood
+credito: Artista desenvolvedor | Leston
+link: Meio & Mensagem | https://www.meioemensagem.com.br/patrocinado/renner/renner-celebra-nova-colecao-com-famosos-no-masp
+---
+Ativação da Renner no edifício Pietro Maria Bardi, do MASP, no lançamento de uma nova coleção.
+
+Giroscópios instalados nas peças de roupa leem o movimento de quem as veste e alteram, em tempo real, os parâmetros da imagem exibida em um painel de LED.
+
+

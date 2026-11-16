@@ -1,0 +1,11 @@
+titulo: Valentino — lançamento de perfume
+ano: 2025
+funcao: Desenvolvimento de hardware personalizado
+cliente: Valentino
+agencia: Studio Firma
+credito: Artista desenvolvedor | Leston
+# local:
+---
+Hardware interativo para o lançamento de uma linha de perfumes Valentino, com a agência Studio Firma.
+
+Tags NFC disparam a reprodução de vídeos e acionam luz, quando retiradas do totem.

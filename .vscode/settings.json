@@ -1,0 +1,5 @@
+{
+  // Live Server: não recarregar a página por causa das fotos otimizadas
+  "liveServer.settings.ignoreFiles": [".vscode/**", "otimizadas/**", "**/*.py"],
+  "liveServer.settings.wait": 400
+}

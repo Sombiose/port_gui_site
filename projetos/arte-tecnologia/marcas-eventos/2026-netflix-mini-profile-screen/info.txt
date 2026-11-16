@@ -1,0 +1,15 @@
+titulo: Netflix Mini Profile Screen
+ano: 2026
+funcao: Design 3D de produto e produção de brindes interativos
+local: Mídia Master
+cliente: Netflix
+credito: Desenvolvimento | Suplab · Leston
+link: DNA Paris Design Awards | https://dna.paris/social/zoom.php?eid=71-95571-26
+link: Mídia Master | https://www.midiamaster.com.br/
+---
+Brinde interativo criado para a Netflix Ads e entregue aos convidados do evento Mídia Master.
+
+Desenvolvimento de design 3D do produto e a produção das peças, em parceria com Suplab e Leston.
+
+- 250 peças interativas impressas em 3D.
+- Menção honrosa no DNA Paris Design Awards, categoria Product Design / Experimental Design.

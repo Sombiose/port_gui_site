@@ -1,0 +1,11 @@
+titulo: Cidade Sensível
+ano: 2025
+funcao: Direção técnica da exposição e desenvolvimento de duas obras
+local: Presidente Prudente, SP
+cliente: Fundação Inova Prudente
+fomento: ProAC
+link: Prefeitura de Presidente Prudente | https://www.presidenteprudente.sp.gov.br/site/noticia/66147
+---
+Exposição de arte e tecnologia em Presidente Prudente (SP), realizada com a Fundação Inova Prudente e contemplada pelo ProAC.
+
+Além da direção técnica da mostra, desenvolvi duas obras com machine learning, programação sonora e hardware personalizado — eletrônica, programação e produção virtual.

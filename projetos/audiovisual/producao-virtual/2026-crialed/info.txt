@@ -1,0 +1,10 @@
+titulo: CriaLed
+ano: 2026
+funcao: Operação de produção virtual
+# local: 
+cliente: CriaLed
+link: CriaLed · produção virtual | https://crialed.com.br/producao-virtual/led-wall-unreal-engine-tracking/
+video: https://www.youtube.com/watch?v=mKIT_Ks3pBA   
+# ordem: 1   (opcional: força a posição na grade; menor vem antes)
+---
+Produção virtual em LED wall para séries, campanhas publicitárias e eventos.
