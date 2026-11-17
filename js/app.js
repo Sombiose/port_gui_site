@@ -158,7 +158,7 @@ function paginaLista(sec) {
   app.innerHTML = `
     <section class="pagina entra">
       <header class="cabeca">
-        <h1>${esc(S.nome)}</h1>
+        <h1><span>${esc(S.nome)}</span></h1>
         <span class="cabeca__conta">${String(lista.length).padStart(2, "0")} ${lista.length === 1 ? "projeto" : "projetos"}</span>
         <p class="cabeca__sub">${esc(S.sub)}</p>
       </header>
@@ -167,7 +167,22 @@ function paginaLista(sec) {
 
   document.title = `${S.nome} — ${NOME}`;
   veuNoToque();
+  ajustarTitulo();
+  addEventListener("resize", ajustarTitulo);
+  limpar.push(() => removeEventListener("resize", ajustarTitulo));
 }
+
+/* O título da seção (ARTE / TECNOLOGIA, AUDIOVISUAL) fica sempre numa linha só
+   e ocupa toda a largura disponível: mede o texto num tamanho de referência e
+   calcula o tamanho exato da letra para encostar nas duas margens. */
+function ajustarTitulo() {
+  const h = $(".cabeca h1"), t = h?.firstElementChild;
+  if (!t) return;
+  h.style.fontSize = "100px";
+  const largura = t.getBoundingClientRect().width;
+  if (largura) h.style.fontSize = Math.floor(100 * h.clientWidth / largura * 0.995 * 10) / 10 + "px";
+}
+document.fonts?.ready.then(ajustarTitulo);   // a fonte do site muda a largura do texto quando termina de carregar
 
 /* Sem mouse não existe "passar por cima": no celular, o card que cruza
    a faixa central da tela ganha o véu com o título, como se fosse o hover. */

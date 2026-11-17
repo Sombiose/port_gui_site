@@ -87,16 +87,19 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 @keyframes entra { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
 
 .cabeca {
-  display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 16px;
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: end; gap: 16px;
   padding: var(--topo-onda) 0 clamp(20px, 3vw, 32px);
   margin-bottom: clamp(28px, 4vw, 48px);
 }
 .cabeca h1 {
+  grid-column: 1 / -1;
+  white-space: nowrap;   /* sempre numa linha; o js/app.js (ajustarTitulo) ajusta a letra à largura toda */
   margin: 0; font-weight: 500; letter-spacing: -.025em; line-height: .95;
   font-size: clamp(40px, 8.5vw, 128px);
 }
-.cabeca__conta { font-family: var(--mono); font-size: 12px; color: var(--cinza); padding-bottom: .6em; }
-.cabeca__sub { grid-column: 1 / -1; margin: 6px 0 0; max-width: 56ch; color: var(--cinza); font-size: 15px; }
+.cabeca h1 span { display: inline-block; }
+.cabeca__conta { grid-column: 2; grid-row: 2; font-family: var(--mono); font-size: 12px; color: var(--cinza); }
+.cabeca__sub { grid-column: 1; grid-row: 2; margin: 6px 0 0; max-width: 56ch; color: var(--cinza); font-size: 15px; }
 
 /* grade */
 .grade {
@@ -341,8 +344,8 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   .menu { width: 100%; justify-content: space-between; gap: 12px; }
   .menu a { font-size: 14px; }
   .corda { height: 42px; }
-  .cabeca { grid-template-columns: 1fr; }
-  .cabeca__conta { padding: 0; }
+  .cabeca { grid-template-columns: minmax(0, 1fr); }
+  .cabeca__conta { grid-column: 1; grid-row: 3; padding: 0; }
 }
 
 @media (prefers-reduced-motion: reduce) {
