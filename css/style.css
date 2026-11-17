@@ -68,16 +68,28 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 
 .menu { display: flex; gap: clamp(16px, 2.4vw, 36px); }
 .menu a {
-  font-size: 14px; text-transform: uppercase; letter-spacing: .05em; position: relative; padding-bottom: 2px; white-space: nowrap;
+  display: inline-flex; align-items: center; gap: 8px;
+  font-size: 14px; text-transform: uppercase; letter-spacing: .05em; white-space: nowrap;
   color: var(--cinza); transition: color .2s;
 }
 .menu a:hover, .menu a.ativo { color: var(--tinta); }
-.menu a::after {
+/* o mesmo quadrado da marca, menor: cinza parado, preto no hover/ativo, miolo laranja na seção atual */
+.menu__quadro {
+  width: 11px; height: 11px; flex: none; position: relative;
+  background: currentColor; transition: background .2s;
+}
+.menu__quadro::after {
+  content: ""; position: absolute; inset: 3px; background: var(--sinal);
+  transform: scale(0); transition: transform .35s var(--ease);
+}
+.menu a:hover .menu__quadro::after, .menu a.ativo .menu__quadro::after { transform: scale(1); }
+.menu__txt { position: relative; padding-bottom: 2px; }
+.menu__txt::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: -1px; height: 2px;
   background: var(--sinal); transform: scaleX(0); transform-origin: left;
   transition: transform .35s var(--ease);
 }
-.menu a.ativo::after { transform: scaleX(1); }
+/* sem sublinhado na seção ativa: ela se destaca só pela cor e pelo quadrado */
 
 .corda { display: block; width: 100%; height: 66px; pointer-events: none; }   /* altura da onda */
 
@@ -341,8 +353,11 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   .mini { height: 44px; }
   .topo__linha { flex-direction: column; align-items: flex-start; gap: 10px; padding-top: 16px; }
   .marca__nome { font-size: 14px; }
-  .menu { width: 100%; justify-content: space-between; gap: 12px; }
-  .menu a { font-size: 14px; }
+  .menu { width: 100%; justify-content: space-between; gap: 8px; }
+  /* no celular o menu encolhe junto com a tela para os três itens caberem numa linha */
+  .menu a { font-size: min(14px, 3.1vw); letter-spacing: .03em; gap: .45em; }
+  .menu__quadro { width: .62em; height: .62em; }
+  .menu__quadro::after { inset: .17em; }
   .corda { height: 42px; }
   .cabeca { grid-template-columns: minmax(0, 1fr); }
   .cabeca__conta { grid-column: 1; grid-row: 3; padding: 0; }
