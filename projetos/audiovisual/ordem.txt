@@ -5,7 +5,7 @@
 # Para ele voltar a aparecer, é só tirar o #.
 # Projeto novo que não estiver aqui aparece no fim da lista.
 
-2026-crialed
+#2026-crialed
 2026-yunk-vino-visualizers
 jornal-da-usp
 2024-nemito

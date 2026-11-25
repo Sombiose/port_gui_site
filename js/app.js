@@ -17,7 +17,7 @@ const SECOES = {
   },
   "audiovisual": {
     nome: "AUDIOVISUAL",
-    sub: "Som, vídeo e produção virtual para cinema, série, podcast, publicidade e divulgação científica.",
+    sub: "Som e vídeo para cinema, série, podcast, publicidade e divulgação científica.",
     cats: {
       "coordenacao-audiovisual": "Coordenação audiovisual",
       "som": "Som",
